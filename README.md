@@ -2,7 +2,7 @@
 - :heart: I’m interested in building unimaginary stuffs with my coding skills.
 - :yum: Always eager to learn new things 
 - :muscle: Fast in learning and adapting new things.
-- :brain: I’m currently learning Full Stack Development(MERN),i have learned frontend , now pursuing backend using Node.js
+- :brain: I’m currently learning Full Stack Development(MERN),i have learned frontend , now pursuing backend.
 - :wrench: Skill sets :`JavaScript` , `React` , `React-Router` , `Redux` , `React_Redux` , `Redux Thunk`
 - :eyes: I’m looking for a `FrontEnd` developer job where i can forge my skills with experienced mentors.
 - 📫 Connect with me 
