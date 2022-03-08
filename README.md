@@ -4,7 +4,6 @@
 - :muscle: Fast in learning and adapting new things.
 - :brain: I’m currently learning Full Stack Development(MERN),i have learned frontend , currently pursuing backend.
 - :wrench: Skill sets :`JavaScript` , `React` , `React-Router` , `Redux` , `React_Redux` , `Redux Thunk`
-- :eyes: I’m looking for a `FrontEnd` developer job where i can forge my skills with experienced mentors.
 - 📫 Connect with me 
   [LinkedIn](https://www.linkedin.com/in/vikas-goswami-41986a205/github-buttons) 
   [Gmail](vikasg224@gmail.com)
