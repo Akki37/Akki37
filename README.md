@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Vikas Goswami
-- :heart: I’m interested in building unimaginary stuffs with my coding skills.
-- :yum: Always eager to learn new things 
-- :muscle: Fast in learning and adapting new things.
-- 💻: Working @ElevateHQ as. Front End Developer (June 2021 - Present)
-- :wrench: Skill sets :`JavaScript` , `React` , `React-Router` , `Redux` , `React_Redux` , `Redux Thunk` , 
-`Jest` , `HTML` , `CSS`
-- ➕: Other Skills: `Postman` , `Figma` , `Axios` , `Ant-Design` , `Material UI` , `Formik & Yup` , `Github` , `Git` , `JWT` , `Ajax` , `Local storage`, `JSON`, `Styled Component` , `Bootstrap`
+- 💡 Innovative Thinker: Passionate about turning imaginative ideas into reality through code.
+- 🎯 Continuous Learner: Always on the lookout for new technologies and challenges to expand my skill set.
+- 🚀 Quick Adopter: Fast learner with a knack for adapting to new tools and frameworks efficiently.
+- 💻 Frontend Developer @ElevateHQ (June 2021 - Present): Bringing ideas to life with intuitive and responsive web interfaces.
+🔧 Core Skills: `JavaScript`, `React`, `React Native`, `Redux`, `HTML5`, `CSS3`, `TypeScript`, `NextJS`, `Styled Components`, `Tailwind CSS`, `Bootstrap`
+- ➕ Additional Expertise: `VS Code`, `Postman`, `Figma`, `GitHub`, `Bitbucket`, `Jira`, `Notion`, `Balsamiq`, `Axios`, `AJAX`, `Ant Design`, `Material UI`, `Formik & Yup`, `Joi`, `Git`, `JWT`, `Local Storage`, `JSON`
 - 📫 Connect with me 
   [LinkedIn](https://www.linkedin.com/in/vikas-goswami-41986a205/github-buttons) 
   [Gmail](vikasg224@gmail.com)
