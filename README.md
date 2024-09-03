@@ -5,7 +5,7 @@
 - 💻 Frontend Developer @ElevateHQ (June 2021 - Present): Bringing ideas to life with intuitive and responsive web interfaces.
 🔧 Core Skills: `JavaScript`, `React`, `React Native`, `Redux`, `HTML5`, `CSS3`, `TypeScript`, `NextJS`, `Styled Components`, `Tailwind CSS`, `Bootstrap`
 - ➕ Additional Expertise: `VS Code`, `Postman`, `Figma`, `GitHub`, `Bitbucket`, `Jira`, `Notion`, `Balsamiq`, `Axios`, `AJAX`, `Ant Design`, `Material UI`, `Formik & Yup`, `Joi`, `Git`, `JWT`, `Local Storage`, `JSON`
-- <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="30" height="30">
+- <img src="https://www.svgrepo.com/show/355081/js.svg" alt="JavaScript" width="30" height="30">
 - 📫 Connect with me 
   [LinkedIn](https://www.linkedin.com/in/vikas-goswami-41986a205/github-buttons) 
   [Gmail](vikasg224@gmail.com)
