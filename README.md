@@ -2,7 +2,7 @@
 - 💡 **Innovative Thinker**: Passionate about turning imaginative ideas into reality through code.
 - 🎯 **Continuous Learner**: Always on the lookout for new technologies and challenges to expand my skill set.
 - 🚀 **Quick Adopter**: Fast learner with a knack for adapting to new tools and frameworks efficiently.
-- 💻 **Frontend Developer @ElevateHQ (June 2021 - Present)**: Bringing ideas to life with intuitive and responsive web interfaces.
+- 💻 **Frontend Developer @ElevateHQ (June 2021 - Dec 2024)**: Bringing ideas to life with intuitive and responsive web interfaces.
 
 - 🔧 **Core Skills**:  
   
