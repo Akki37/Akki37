@@ -1,174 +1,27 @@
-# 👋 Hi, I'm Vikas Goswami
+# Vikas Goswami
 
-### Frontend Engineer | React • TypeScript • Next.js | 📍 Bangalore, India
+**Frontend Engineer** · React · TypeScript · Next.js · React Native  
+Bangalore, India
 
-I’m a Frontend Engineer with 5+ years of experience building scalable SaaS applications and modern web experiences. I enjoy transforming complex product requirements into intuitive, performant, and maintainable user interfaces.
+Frontend engineer since 2021. I spent 3.5 years full-time at ElevateHQ as the first employee and the frontend owner of a sales-commission SaaS product. Since then the work has been contract and part-time: a B2B SaaS engagement at Bionicly, a 30-day Next.js build for Koppa, and part-time frontend on Keyhouse, a real-estate CRM (web and React Native).
 
-My expertise lies in React, TypeScript, Next.js, frontend architecture, reusable component systems, performance optimization, and building products with a strong focus on developer experience.
+## Featured
 
+- [Portfolio](https://vikas-goswami-portfolio.vercel.app/)
+- [JS Visualizer](https://javascript-runtime-visualizer.vercel.app/) — a JavaScript runtime you can step through. The source stays private.
+- [Poppins](https://vikas-goswami-portfolio.vercel.app/projects/poppins) — India-first expense app. Android beta APK is on that page.
 
----
+## Stack
 
+JavaScript · TypeScript · React · Next.js · React Native · Expo  
+Redux Toolkit · Zustand · Tailwind CSS · Material UI  
+Jest · React Testing Library · Git
 
-## 👨‍💻 What I Do
+## Now
 
-I enjoy solving engineering problems where architecture, performance, and user experience come together.
+Learning backend by building a small Express and TypeScript API for Poppins. It is still early: category templates, in-memory data.
 
-Whether it's designing reusable component systems, optimizing rendering performance, improving developer workflows, or shipping polished product experiences, I enjoy building software that remains clean, scalable, and maintainable as products evolve.
+## Contact
 
-
----
-
-
-## 💼 Experience
-
-- 💻 5+ Years of Frontend Engineering Experience
-- 🏢 Built SaaS Products for Enterprise Customers
-- 🧩 Frontend Architecture & Component Design
-- ⚡ Performance Optimization
-- 🔐 Authentication & Role-Based Access Control
-- 🔄 REST API Integration
-- 🚀 End-to-End Feature Ownership
-- 🤝 Cross-functional Collaboration in Agile Teams
-
-
----
-
-
-## 🚀 What I Focus On
-
-- Frontend Architecture
-- Scalable React Applications
-- Reusable Component Libraries
-- Design Systems
-- Performance Engineering
-- Responsive & Accessible UI
-- Developer Experience
-- Clean Code & Maintainability
-
-
----
-
-
-## ⚙️ How I Like to Work
-
-- Architecture before implementation
-- Reusable solutions over repetitive code
-- Performance as a default, not an afterthought
-- Simple, readable, and maintainable code
-- Continuous improvement through learning and iteration
-
-
----
-
-
-## 🛠️ Tech Stack
-
-### Languages
-
-JavaScript • TypeScript • HTML5 • CSS3
-
-### Frontend
-
-React • Next.js • React Native
-
-### State Management
-
-Redux • Zustand
-
-### UI Libraries
-
-Tailwind CSS • Material UI • Ant Design • Styled Components • Bootstrap
-
-### API & Data
-
-REST APIs • Axios • JWT • JSON
-
-### Forms & Testing
-
-Formik • Yup • Jest • React Testing Library
-
-### Tools
-
-Git • GitHub • Cursor • VS Code • Postman • Figma • Notion • Linear • Jira • Bitbucket
-
-### AI Workflow
-
-Cursor • ChatGPT • Claude
-
-
----
-
-
-## 🎯 Professional Interests
-
-I'm particularly interested in building software that balances engineering quality with product experience.
-
-Areas I enjoy exploring include:
-
-- Frontend Architecture
-- JavaScript & TypeScript
-- Developer Experience
-- System Design
-- Performance Optimization
-- Modern Web Technologies
-- AI-assisted Engineering
-
-
----
-
-
-## 🌱 Currently Learning
-
-I strongly believe continuous learning is one of the most important qualities of an engineer.
-
-Currently focusing on:
-
-- Data Structures & Algorithms
-- Backend Development
-- System Design
-- AI-powered Development
-- Modern Frontend Architecture
-
-
----
-
-
-## 💡 Engineering Philosophy
-
-I believe great software is built by balancing clean architecture, user experience, maintainability, and performance.
-
-I enjoy understanding how systems work beneath the abstraction, continuously improving my engineering skills, and building software that is simple, scalable, and enjoyable to use.
-
-
----
-
-
-## 📈 GitHub Stats
-
-<!-- GitHub Stats Card -->
-
-<!-- Top Languages -->
-
-<!-- Contribution Streak -->
-
-
----
-
-
-## 📫 Connect With Me
-
-- 📧 Email: **vikasg224@gmail.com**
-- 💼 LinkedIn: **[https://linkedin.com/in/vikas-goswami](https://www.linkedin.com/in/vikas-goswami-41986a205/)**
-- 💻 GitHub: **[https://github.com/Akki37](https://github.com/Akki37/Akki37)**
-
-
----
-
-
-## 🚀 Featured Work
-
-Coming soon... Something is really cooking... just wait a little longer...
-
-
-> *"The best way to grow as an engineer is to stay curious, keep learning, and build things that solve real problems."*
+- Email: [vikasg224@gmail.com](mailto:vikasg224@gmail.com)
+- LinkedIn: [vikas-goswami](https://www.linkedin.com/in/vikas-goswami-41986a205/)
